@@ -1,0 +1,4 @@
+name=Vehicle Animation MP Fix
+id=SyncVehicleAnim
+description=Fix to synchronize vehicle animation in MP.
+poster=poster.png
