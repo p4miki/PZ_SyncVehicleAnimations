@@ -1,4 +1,11 @@
 name=Vehicle Animation MP Fix
 id=SyncVehicleAnim
+
+author=p3miki
 description=Fix to synchronize vehicle animation in MP.
+
 poster=poster.png
+icon=poster.png
+
+modversion=1.0.0
+versionMin=42.0
